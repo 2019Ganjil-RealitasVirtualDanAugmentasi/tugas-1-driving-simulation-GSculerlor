@@ -9,8 +9,6 @@ namespace KartGame.UI
     /// </summary>
     public class MetaGameController : MonoBehaviour
     {
-        [Tooltip("A reference to the main menu.")]
-        public MainUIController mainMenu;
         [Tooltip("A reference to the race countdown director trigger.")]
         public DirectorTrigger raceCountdownTrigger;
         [Tooltip("The UI canvases used for game play.")]
@@ -47,13 +45,11 @@ namespace KartGame.UI
             {
                 // WORKAROUND: This is due to a problem where setting the time scale to 0 causes audio to stop playing.
                 Time.timeScale = 0.00001f;
-                mainMenu.gameObject.SetActive(true);
                 foreach (var i in gamePlayCanvas) i.gameObject.SetActive(false);
             }
             else
             {
                 Time.timeScale = 1;
-                mainMenu.gameObject.SetActive(false);
                 foreach (var i in gamePlayCanvas) i.gameObject.SetActive(true);
             }
             m_ShowMainCanvas = show;
