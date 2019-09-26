@@ -45,8 +45,8 @@ namespace KartGame.KartSystems
         {
             if (Input.GetButton ("Brake"))
                 m_Acceleration = -1f;
-            else if (Input.GetButton ("Accelerate"))
-                m_Acceleration = 1f;
+            else if (Input.GetAxis("Njir") < 0)
+                m_Acceleration = Input.GetAxis("Njir") * -1;
             else
                 m_Acceleration = 0f;
 
