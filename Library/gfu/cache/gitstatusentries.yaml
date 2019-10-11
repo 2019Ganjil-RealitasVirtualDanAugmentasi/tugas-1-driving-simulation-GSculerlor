@@ -1,0 +1,1260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-10-11T08:59:13.685+07:00
+  initializedAtString: 2019-10-11T07:57:33.465+07:00
+  entries:
+  - path: .collabignore
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\.collabignore
+    projectPath: .collabignore
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Editor.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Plugins\Editor.meta
+    projectPath: Assets\Plugins\Editor.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\Editor\JetBrains.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Plugins\Editor\JetBrains.meta
+    projectPath: Assets\Plugins\Editor\JetBrains.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\Editor\JetBrains\JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Plugins\Editor\JetBrains\JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
+    projectPath: Assets\Plugins\Editor\JetBrains\JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Plugins\Editor\JetBrains\JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Plugins\Editor\JetBrains\JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta
+    projectPath: Assets\Plugins\Editor\JetBrains\JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Tree9.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9.meta
+    projectPath: Assets\Tree9.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\bark14.mat
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\bark14.mat
+    projectPath: Assets\Tree9\bark14.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\bark14.mat.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\bark14.mat.meta
+    projectPath: Assets\Tree9\bark14.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\bark14.png
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\bark14.png
+    projectPath: Assets\Tree9\bark14.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\bark14.png.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\bark14.png.meta
+    projectPath: Assets\Tree9\bark14.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\bark14_N.png
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\bark14_N.png
+    projectPath: Assets\Tree9\bark14_N.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\bark14_N.png.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\bark14_N.png.meta
+    projectPath: Assets\Tree9\bark14_N.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Leafs19.tga
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Leafs19.tga
+    projectPath: Assets\Tree9\Leafs19.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Leafs19.tga.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Leafs19.tga.meta
+    projectPath: Assets\Tree9\Leafs19.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Leafs19_N.png
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Leafs19_N.png
+    projectPath: Assets\Tree9\Leafs19_N.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Leafs19_N.png.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Leafs19_N.png.meta
+    projectPath: Assets\Tree9\Leafs19_N.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Materials.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Materials.meta
+    projectPath: Assets\Tree9\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Materials\leaf.mat
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Materials\leaf.mat
+    projectPath: Assets\Tree9\Materials\leaf.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Materials\leaf.mat.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Materials\leaf.mat.meta
+    projectPath: Assets\Tree9\Materials\leaf.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\tree9.unity
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\tree9.unity
+    projectPath: Assets\Tree9\tree9.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\tree9.unity.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\tree9.unity.meta
+    projectPath: Assets\Tree9\tree9.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_1_Textures.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_1_Textures.meta
+    projectPath: Assets\Tree9\Tree9_1_Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_1_Textures\diffuse.png
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_1_Textures\diffuse.png
+    projectPath: Assets\Tree9\Tree9_1_Textures\diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_1_Textures\diffuse.png.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_1_Textures\diffuse.png.meta
+    projectPath: Assets\Tree9\Tree9_1_Textures\diffuse.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_1_Textures\Materials.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_1_Textures\Materials.meta
+    projectPath: Assets\Tree9\Tree9_1_Textures\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_1_Textures\Materials\diffuse.mat
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_1_Textures\Materials\diffuse.mat
+    projectPath: Assets\Tree9\Tree9_1_Textures\Materials\diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_1_Textures\Materials\diffuse.mat.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_1_Textures\Materials\diffuse.mat.meta
+    projectPath: Assets\Tree9\Tree9_1_Textures\Materials\diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_1_Textures\normal_specular.png
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_1_Textures\normal_specular.png
+    projectPath: Assets\Tree9\Tree9_1_Textures\normal_specular.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_1_Textures\normal_specular.png.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_1_Textures\normal_specular.png.meta
+    projectPath: Assets\Tree9\Tree9_1_Textures\normal_specular.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_1_Textures\shadow.png
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_1_Textures\shadow.png
+    projectPath: Assets\Tree9\Tree9_1_Textures\shadow.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_1_Textures\shadow.png.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_1_Textures\shadow.png.meta
+    projectPath: Assets\Tree9\Tree9_1_Textures\shadow.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_1_Textures\translucency_gloss.png
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_1_Textures\translucency_gloss.png
+    projectPath: Assets\Tree9\Tree9_1_Textures\translucency_gloss.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_1_Textures\translucency_gloss.png.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_1_Textures\translucency_gloss.png.meta
+    projectPath: Assets\Tree9\Tree9_1_Textures\translucency_gloss.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_2.prefab
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_2.prefab
+    projectPath: Assets\Tree9\Tree9_2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_2.prefab.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_2.prefab.meta
+    projectPath: Assets\Tree9\Tree9_2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_2_Textures.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_2_Textures.meta
+    projectPath: Assets\Tree9\Tree9_2_Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_2_Textures\diffuse.png
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_2_Textures\diffuse.png
+    projectPath: Assets\Tree9\Tree9_2_Textures\diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_2_Textures\diffuse.png.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_2_Textures\diffuse.png.meta
+    projectPath: Assets\Tree9\Tree9_2_Textures\diffuse.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_2_Textures\normal_specular.png
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_2_Textures\normal_specular.png
+    projectPath: Assets\Tree9\Tree9_2_Textures\normal_specular.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_2_Textures\normal_specular.png.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_2_Textures\normal_specular.png.meta
+    projectPath: Assets\Tree9\Tree9_2_Textures\normal_specular.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_2_Textures\shadow.png
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_2_Textures\shadow.png
+    projectPath: Assets\Tree9\Tree9_2_Textures\shadow.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_2_Textures\shadow.png.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_2_Textures\shadow.png.meta
+    projectPath: Assets\Tree9\Tree9_2_Textures\shadow.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_2_Textures\translucency_gloss.png
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_2_Textures\translucency_gloss.png
+    projectPath: Assets\Tree9\Tree9_2_Textures\translucency_gloss.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_2_Textures\translucency_gloss.png.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_2_Textures\translucency_gloss.png.meta
+    projectPath: Assets\Tree9\Tree9_2_Textures\translucency_gloss.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_3.prefab
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_3.prefab
+    projectPath: Assets\Tree9\Tree9_3.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_3.prefab.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_3.prefab.meta
+    projectPath: Assets\Tree9\Tree9_3.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_4.prefab
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_4.prefab
+    projectPath: Assets\Tree9\Tree9_4.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_4.prefab.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_4.prefab.meta
+    projectPath: Assets\Tree9\Tree9_4.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_5.prefab
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_5.prefab
+    projectPath: Assets\Tree9\Tree9_5.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_5.prefab.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_5.prefab.meta
+    projectPath: Assets\Tree9\Tree9_5.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_Leaf.fbx
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_Leaf.fbx
+    projectPath: Assets\Tree9\Tree9_Leaf.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_Leaf.fbx.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_Leaf.fbx.meta
+    projectPath: Assets\Tree9\Tree9_Leaf.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_leafs.mat
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_leafs.mat
+    projectPath: Assets\Tree9\Tree9_leafs.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Tree9_leafs.mat.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Tree9_leafs.mat.meta
+    projectPath: Assets\Tree9\Tree9_leafs.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Trees.prefab
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Trees.prefab
+    projectPath: Assets\Tree9\Trees.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Tree9\Trees.prefab.meta
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\Tree9\Trees.prefab.meta
+    projectPath: Assets\Tree9\Trees.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UTech\MG-Karting\BasicAssets\Scenes\SampleScene.unity
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Assets\UTech\MG-Karting\BasicAssets\Scenes\SampleScene.unity
+    projectPath: Assets\UTech\MG-Karting\BasicAssets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Collab\CollabSnapshot_04f2523f-36e9-4706-ab54-0f71d2ea7eb0.txt
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\Collab\CollabSnapshot_04f2523f-36e9-4706-ab54-0f71d2ea7eb0.txt
+    projectPath: Library\Collab\CollabSnapshot_04f2523f-36e9-4706-ab54-0f71d2ea7eb0.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\CrashedAssetImports.txt
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\expandedItems
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\00185b574c5781d49a2458da5814db8c
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\00\00185b574c5781d49a2458da5814db8c
+    projectPath: Library\metadata\00\00185b574c5781d49a2458da5814db8c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\00\00185b574c5781d49a2458da5814db8c.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\00\00185b574c5781d49a2458da5814db8c.info
+    projectPath: Library\metadata\00\00185b574c5781d49a2458da5814db8c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\08\080233b5339880844a9e869c3c536e5a
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\08\080233b5339880844a9e869c3c536e5a
+    projectPath: Library\metadata\08\080233b5339880844a9e869c3c536e5a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\08\080233b5339880844a9e869c3c536e5a.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\08\080233b5339880844a9e869c3c536e5a.info
+    projectPath: Library\metadata\08\080233b5339880844a9e869c3c536e5a.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\0b\0b126e19a3d99c442b1dd5a8f8f4f143
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\0b\0b126e19a3d99c442b1dd5a8f8f4f143
+    projectPath: Library\metadata\0b\0b126e19a3d99c442b1dd5a8f8f4f143
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\0b\0b126e19a3d99c442b1dd5a8f8f4f143.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\0b\0b126e19a3d99c442b1dd5a8f8f4f143.info
+    projectPath: Library\metadata\0b\0b126e19a3d99c442b1dd5a8f8f4f143.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\0d\0da824289dbe3c64b9248a25527ce75b
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\0d\0da824289dbe3c64b9248a25527ce75b
+    projectPath: Library\metadata\0d\0da824289dbe3c64b9248a25527ce75b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\0d\0da824289dbe3c64b9248a25527ce75b.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\0d\0da824289dbe3c64b9248a25527ce75b.info
+    projectPath: Library\metadata\0d\0da824289dbe3c64b9248a25527ce75b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1d\1de95aafaed1b594b88a317c6a6ac028
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\1d\1de95aafaed1b594b88a317c6a6ac028
+    projectPath: Library\metadata\1d\1de95aafaed1b594b88a317c6a6ac028
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1d\1de95aafaed1b594b88a317c6a6ac028.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\1d\1de95aafaed1b594b88a317c6a6ac028.info
+    projectPath: Library\metadata\1d\1de95aafaed1b594b88a317c6a6ac028.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\34\34243152f3fa16b448cdf8052aa2cb6c
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\34\34243152f3fa16b448cdf8052aa2cb6c
+    projectPath: Library\metadata\34\34243152f3fa16b448cdf8052aa2cb6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\34\34243152f3fa16b448cdf8052aa2cb6c.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\34\34243152f3fa16b448cdf8052aa2cb6c.info
+    projectPath: Library\metadata\34\34243152f3fa16b448cdf8052aa2cb6c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\34\34bf97c9a44d6a24e9aad37f9f1e5e3d
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\34\34bf97c9a44d6a24e9aad37f9f1e5e3d
+    projectPath: Library\metadata\34\34bf97c9a44d6a24e9aad37f9f1e5e3d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\34\34bf97c9a44d6a24e9aad37f9f1e5e3d.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\34\34bf97c9a44d6a24e9aad37f9f1e5e3d.info
+    projectPath: Library\metadata\34\34bf97c9a44d6a24e9aad37f9f1e5e3d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\35\3546abbb94889b4478c99a0df0af7c9d
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\35\3546abbb94889b4478c99a0df0af7c9d
+    projectPath: Library\metadata\35\3546abbb94889b4478c99a0df0af7c9d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\35\3546abbb94889b4478c99a0df0af7c9d.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\35\3546abbb94889b4478c99a0df0af7c9d.info
+    projectPath: Library\metadata\35\3546abbb94889b4478c99a0df0af7c9d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\3b\3b81562ccc7e92543a108e811251a16f
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\3b\3b81562ccc7e92543a108e811251a16f
+    projectPath: Library\metadata\3b\3b81562ccc7e92543a108e811251a16f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\3b\3b81562ccc7e92543a108e811251a16f.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\3b\3b81562ccc7e92543a108e811251a16f.info
+    projectPath: Library\metadata\3b\3b81562ccc7e92543a108e811251a16f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\41\41ed07a01030f594b8b9ea974b35ebec
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\41\41ed07a01030f594b8b9ea974b35ebec
+    projectPath: Library\metadata\41\41ed07a01030f594b8b9ea974b35ebec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\41\41ed07a01030f594b8b9ea974b35ebec.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\41\41ed07a01030f594b8b9ea974b35ebec.info
+    projectPath: Library\metadata\41\41ed07a01030f594b8b9ea974b35ebec.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\58\58552de7d543f6e4095feb3806e56f4f
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\58\58552de7d543f6e4095feb3806e56f4f
+    projectPath: Library\metadata\58\58552de7d543f6e4095feb3806e56f4f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\58\58552de7d543f6e4095feb3806e56f4f.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\58\58552de7d543f6e4095feb3806e56f4f.info
+    projectPath: Library\metadata\58\58552de7d543f6e4095feb3806e56f4f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\60\609c29a6934420b4d9c700a34e5db659
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\60\609c29a6934420b4d9c700a34e5db659
+    projectPath: Library\metadata\60\609c29a6934420b4d9c700a34e5db659
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\60\609c29a6934420b4d9c700a34e5db659.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\60\609c29a6934420b4d9c700a34e5db659.info
+    projectPath: Library\metadata\60\609c29a6934420b4d9c700a34e5db659.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\60\60ff04fad83b92544bd13bddc8547d83
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\60\60ff04fad83b92544bd13bddc8547d83
+    projectPath: Library\metadata\60\60ff04fad83b92544bd13bddc8547d83
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\60\60ff04fad83b92544bd13bddc8547d83.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\60\60ff04fad83b92544bd13bddc8547d83.info
+    projectPath: Library\metadata\60\60ff04fad83b92544bd13bddc8547d83.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\76\760ea8238d6219c42b2739f693d4c834
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\76\760ea8238d6219c42b2739f693d4c834
+    projectPath: Library\metadata\76\760ea8238d6219c42b2739f693d4c834
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\76\760ea8238d6219c42b2739f693d4c834.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\76\760ea8238d6219c42b2739f693d4c834.info
+    projectPath: Library\metadata\76\760ea8238d6219c42b2739f693d4c834.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\78\78e60ad3a8152ec46be748bb6d5a7cdf
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\78\78e60ad3a8152ec46be748bb6d5a7cdf
+    projectPath: Library\metadata\78\78e60ad3a8152ec46be748bb6d5a7cdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\78\78e60ad3a8152ec46be748bb6d5a7cdf.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\78\78e60ad3a8152ec46be748bb6d5a7cdf.info
+    projectPath: Library\metadata\78\78e60ad3a8152ec46be748bb6d5a7cdf.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\799e519b3a60a2a449517da6d11e4d92
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\79\799e519b3a60a2a449517da6d11e4d92
+    projectPath: Library\metadata\79\799e519b3a60a2a449517da6d11e4d92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\79\799e519b3a60a2a449517da6d11e4d92.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\79\799e519b3a60a2a449517da6d11e4d92.info
+    projectPath: Library\metadata\79\799e519b3a60a2a449517da6d11e4d92.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\7d\7dafad9b3932d664eb7eecb2d68abf90
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\7d\7dafad9b3932d664eb7eecb2d68abf90
+    projectPath: Library\metadata\7d\7dafad9b3932d664eb7eecb2d68abf90
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\7d\7dafad9b3932d664eb7eecb2d68abf90.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\7d\7dafad9b3932d664eb7eecb2d68abf90.info
+    projectPath: Library\metadata\7d\7dafad9b3932d664eb7eecb2d68abf90.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\81\81f1d63919f88a547a8d97fe857cc586
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\81\81f1d63919f88a547a8d97fe857cc586
+    projectPath: Library\metadata\81\81f1d63919f88a547a8d97fe857cc586
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\81\81f1d63919f88a547a8d97fe857cc586.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\81\81f1d63919f88a547a8d97fe857cc586.info
+    projectPath: Library\metadata\81\81f1d63919f88a547a8d97fe857cc586.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\8b\8b2d47fdc2e25ac4f9721480a68bbefa
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\8b\8b2d47fdc2e25ac4f9721480a68bbefa
+    projectPath: Library\metadata\8b\8b2d47fdc2e25ac4f9721480a68bbefa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\8b\8b2d47fdc2e25ac4f9721480a68bbefa.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\8b\8b2d47fdc2e25ac4f9721480a68bbefa.info
+    projectPath: Library\metadata\8b\8b2d47fdc2e25ac4f9721480a68bbefa.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\8d\8d139c15c7ee7f949a8d3cb34eb9f16f
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\8d\8d139c15c7ee7f949a8d3cb34eb9f16f
+    projectPath: Library\metadata\8d\8d139c15c7ee7f949a8d3cb34eb9f16f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\8d\8d139c15c7ee7f949a8d3cb34eb9f16f.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\8d\8d139c15c7ee7f949a8d3cb34eb9f16f.info
+    projectPath: Library\metadata\8d\8d139c15c7ee7f949a8d3cb34eb9f16f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\95\956bd2acf7aae244dac8fc20cf57858d
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\95\956bd2acf7aae244dac8fc20cf57858d
+    projectPath: Library\metadata\95\956bd2acf7aae244dac8fc20cf57858d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\95\956bd2acf7aae244dac8fc20cf57858d.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\95\956bd2acf7aae244dac8fc20cf57858d.info
+    projectPath: Library\metadata\95\956bd2acf7aae244dac8fc20cf57858d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\9b\9b8fc966f95ea9c4194dc091fc40b478
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\9b\9b8fc966f95ea9c4194dc091fc40b478
+    projectPath: Library\metadata\9b\9b8fc966f95ea9c4194dc091fc40b478
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\9b\9b8fc966f95ea9c4194dc091fc40b478.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\9b\9b8fc966f95ea9c4194dc091fc40b478.info
+    projectPath: Library\metadata\9b\9b8fc966f95ea9c4194dc091fc40b478.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ad\adc32b20533215d47940957b31a90b7f
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\ad\adc32b20533215d47940957b31a90b7f
+    projectPath: Library\metadata\ad\adc32b20533215d47940957b31a90b7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ad\adc32b20533215d47940957b31a90b7f.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\ad\adc32b20533215d47940957b31a90b7f.info
+    projectPath: Library\metadata\ad\adc32b20533215d47940957b31a90b7f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\be\be878d9ea17907f4a8068678a5ce7908
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\be\be878d9ea17907f4a8068678a5ce7908
+    projectPath: Library\metadata\be\be878d9ea17907f4a8068678a5ce7908
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\be\be878d9ea17907f4a8068678a5ce7908.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\be\be878d9ea17907f4a8068678a5ce7908.info
+    projectPath: Library\metadata\be\be878d9ea17907f4a8068678a5ce7908.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c6\c6866b951b8f3da479d9f8822255ff51
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\c6\c6866b951b8f3da479d9f8822255ff51
+    projectPath: Library\metadata\c6\c6866b951b8f3da479d9f8822255ff51
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c6\c6866b951b8f3da479d9f8822255ff51.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\c6\c6866b951b8f3da479d9f8822255ff51.info
+    projectPath: Library\metadata\c6\c6866b951b8f3da479d9f8822255ff51.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\da\da780beb78a91484aa965294e12f428e
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\da\da780beb78a91484aa965294e12f428e
+    projectPath: Library\metadata\da\da780beb78a91484aa965294e12f428e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\da\da780beb78a91484aa965294e12f428e.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\da\da780beb78a91484aa965294e12f428e.info
+    projectPath: Library\metadata\da\da780beb78a91484aa965294e12f428e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e9\e90a444fafc93b442b9fa585f81815bb
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\e9\e90a444fafc93b442b9fa585f81815bb
+    projectPath: Library\metadata\e9\e90a444fafc93b442b9fa585f81815bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e9\e90a444fafc93b442b9fa585f81815bb.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\e9\e90a444fafc93b442b9fa585f81815bb.info
+    projectPath: Library\metadata\e9\e90a444fafc93b442b9fa585f81815bb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ef\ef08b4a7630e49648818027b7349e100
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\ef\ef08b4a7630e49648818027b7349e100
+    projectPath: Library\metadata\ef\ef08b4a7630e49648818027b7349e100
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ef\ef08b4a7630e49648818027b7349e100.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\ef\ef08b4a7630e49648818027b7349e100.info
+    projectPath: Library\metadata\ef\ef08b4a7630e49648818027b7349e100.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f6\f61dbef0d12d35f4b9fbf8cfded48f9a
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\f6\f61dbef0d12d35f4b9fbf8cfded48f9a
+    projectPath: Library\metadata\f6\f61dbef0d12d35f4b9fbf8cfded48f9a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f6\f61dbef0d12d35f4b9fbf8cfded48f9a.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\f6\f61dbef0d12d35f4b9fbf8cfded48f9a.info
+    projectPath: Library\metadata\f6\f61dbef0d12d35f4b9fbf8cfded48f9a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f9\f984fae445e929149af21237b556579a
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\f9\f984fae445e929149af21237b556579a
+    projectPath: Library\metadata\f9\f984fae445e929149af21237b556579a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f9\f984fae445e929149af21237b556579a.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\f9\f984fae445e929149af21237b556579a.info
+    projectPath: Library\metadata\f9\f984fae445e929149af21237b556579a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fa\fa41cc63b7bd56f4da64009c1c218880
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\fa\fa41cc63b7bd56f4da64009c1c218880
+    projectPath: Library\metadata\fa\fa41cc63b7bd56f4da64009c1c218880
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fa\fa41cc63b7bd56f4da64009c1c218880.info
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\metadata\fa\fa41cc63b7bd56f4da64009c1c218880.info
+    projectPath: Library\metadata\fa\fa41cc63b7bd56f4da64009c1c218880.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ProjectSettings.asset
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ProjectSettings.asset
+    projectPath: Library\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ProtocolInstance.json
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ProtocolInstance.json
+    projectPath: Library\ProtocolInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\Oculus.VR.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\0f53836099e3adbe05e0905672a6dbb2.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\0\0f53836099e3adbe05e0905672a6dbb2.bin
+    projectPath: Library\ShaderCache\0\0f53836099e3adbe05e0905672a6dbb2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1cddaf2dc690e8b7160366512d95f586.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\1\1cddaf2dc690e8b7160366512d95f586.bin
+    projectPath: Library\ShaderCache\1\1cddaf2dc690e8b7160366512d95f586.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1df9a03150d2b200672029249ed49695.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\1\1df9a03150d2b200672029249ed49695.bin
+    projectPath: Library\ShaderCache\1\1df9a03150d2b200672029249ed49695.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\22f6765d0193c35a79e6399cbdc633c0.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\2\22f6765d0193c35a79e6399cbdc633c0.bin
+    projectPath: Library\ShaderCache\2\22f6765d0193c35a79e6399cbdc633c0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\244478f953cee21c702060d41b09884a.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\2\244478f953cee21c702060d41b09884a.bin
+    projectPath: Library\ShaderCache\2\244478f953cee21c702060d41b09884a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\28f743b9c74c1351a8521f8af838c59e.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\2\28f743b9c74c1351a8521f8af838c59e.bin
+    projectPath: Library\ShaderCache\2\28f743b9c74c1351a8521f8af838c59e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2d059c1728314380d8f82a363dbe7ba0.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\2\2d059c1728314380d8f82a363dbe7ba0.bin
+    projectPath: Library\ShaderCache\2\2d059c1728314380d8f82a363dbe7ba0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\36b92c0dae37a2669d13cf4a8e06cbc6.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\3\36b92c0dae37a2669d13cf4a8e06cbc6.bin
+    projectPath: Library\ShaderCache\3\36b92c0dae37a2669d13cf4a8e06cbc6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\386da587170fa2e50279bf5f42daa497.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\3\386da587170fa2e50279bf5f42daa497.bin
+    projectPath: Library\ShaderCache\3\386da587170fa2e50279bf5f42daa497.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\493a47d65ceb3bd3bd583dec0c7b7e31.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\4\493a47d65ceb3bd3bd583dec0c7b7e31.bin
+    projectPath: Library\ShaderCache\4\493a47d65ceb3bd3bd583dec0c7b7e31.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4e7887c81ca867d0ff91251669fe2e26.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\4\4e7887c81ca867d0ff91251669fe2e26.bin
+    projectPath: Library\ShaderCache\4\4e7887c81ca867d0ff91251669fe2e26.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\53290be85578fb638ea6677bf2e2f060.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\5\53290be85578fb638ea6677bf2e2f060.bin
+    projectPath: Library\ShaderCache\5\53290be85578fb638ea6677bf2e2f060.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\560575e7877112f0d1dcee1a43a69d76.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\5\560575e7877112f0d1dcee1a43a69d76.bin
+    projectPath: Library\ShaderCache\5\560575e7877112f0d1dcee1a43a69d76.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\58c95559c9accce6f402df747620e4f7.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\5\58c95559c9accce6f402df747620e4f7.bin
+    projectPath: Library\ShaderCache\5\58c95559c9accce6f402df747620e4f7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\63b49e032f7d692d70d402e2922cb914.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\6\63b49e032f7d692d70d402e2922cb914.bin
+    projectPath: Library\ShaderCache\6\63b49e032f7d692d70d402e2922cb914.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6d7b121c8b9968df304abb3ec0a74f21.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\6\6d7b121c8b9968df304abb3ec0a74f21.bin
+    projectPath: Library\ShaderCache\6\6d7b121c8b9968df304abb3ec0a74f21.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\75db8367bf0fae46678d6ac06da6cd3f.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\7\75db8367bf0fae46678d6ac06da6cd3f.bin
+    projectPath: Library\ShaderCache\7\75db8367bf0fae46678d6ac06da6cd3f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\82a566596e22b82b575fd923bd43b0a1.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\8\82a566596e22b82b575fd923bd43b0a1.bin
+    projectPath: Library\ShaderCache\8\82a566596e22b82b575fd923bd43b0a1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8d45f3513ce8809a5a1aa0f68c4151f7.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\8\8d45f3513ce8809a5a1aa0f68c4151f7.bin
+    projectPath: Library\ShaderCache\8\8d45f3513ce8809a5a1aa0f68c4151f7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\95ab6a44884d74ba826c6fc5c164bb14.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\9\95ab6a44884d74ba826c6fc5c164bb14.bin
+    projectPath: Library\ShaderCache\9\95ab6a44884d74ba826c6fc5c164bb14.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a3937b1d6bf6a6da193e67041b8751bf.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\a\a3937b1d6bf6a6da193e67041b8751bf.bin
+    projectPath: Library\ShaderCache\a\a3937b1d6bf6a6da193e67041b8751bf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a5f9e00ab6f127c36a89c6ced4525ce3.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\a\a5f9e00ab6f127c36a89c6ced4525ce3.bin
+    projectPath: Library\ShaderCache\a\a5f9e00ab6f127c36a89c6ced4525ce3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b41b71aa02934b9a29de65f37c089d08.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\b\b41b71aa02934b9a29de65f37c089d08.bin
+    projectPath: Library\ShaderCache\b\b41b71aa02934b9a29de65f37c089d08.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b4cd3dd5b68fb450380901250179bd66.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\b\b4cd3dd5b68fb450380901250179bd66.bin
+    projectPath: Library\ShaderCache\b\b4cd3dd5b68fb450380901250179bd66.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bf7e8a1196ef006c55262793b86b8243.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\b\bf7e8a1196ef006c55262793b86b8243.bin
+    projectPath: Library\ShaderCache\b\bf7e8a1196ef006c55262793b86b8243.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c1ca3e415e3d9c204e94692b993b7256.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\c\c1ca3e415e3d9c204e94692b993b7256.bin
+    projectPath: Library\ShaderCache\c\c1ca3e415e3d9c204e94692b993b7256.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c233e38d30f813571d5d8075a775ed41.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\c\c233e38d30f813571d5d8075a775ed41.bin
+    projectPath: Library\ShaderCache\c\c233e38d30f813571d5d8075a775ed41.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c629a73dc58468e24c9a000761eabc8b.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\c\c629a73dc58468e24c9a000761eabc8b.bin
+    projectPath: Library\ShaderCache\c\c629a73dc58468e24c9a000761eabc8b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cf7bdfca9dd9ff377d327cd804d1f7cc.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\c\cf7bdfca9dd9ff377d327cd804d1f7cc.bin
+    projectPath: Library\ShaderCache\c\cf7bdfca9dd9ff377d327cd804d1f7cc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d1a0e6c898ecb3b9576196867aa38e74.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\d\d1a0e6c898ecb3b9576196867aa38e74.bin
+    projectPath: Library\ShaderCache\d\d1a0e6c898ecb3b9576196867aa38e74.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dfffbc16d0a7d9ae5319663446a88674.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\d\dfffbc16d0a7d9ae5319663446a88674.bin
+    projectPath: Library\ShaderCache\d\dfffbc16d0a7d9ae5319663446a88674.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e561013f1f1b93baa4e1d9465cbee541.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\e\e561013f1f1b93baa4e1d9465cbee541.bin
+    projectPath: Library\ShaderCache\e\e561013f1f1b93baa4e1d9465cbee541.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e936fe0b2ba266cf330d295dc7f10461.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\e\e936fe0b2ba266cf330d295dc7f10461.bin
+    projectPath: Library\ShaderCache\e\e936fe0b2ba266cf330d295dc7f10461.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ea5ea0c3155e7e95b17f29bab0086d92.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\e\ea5ea0c3155e7e95b17f29bab0086d92.bin
+    projectPath: Library\ShaderCache\e\ea5ea0c3155e7e95b17f29bab0086d92.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\f\f47309ce98ff8cfd2c07990c93171807.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\f\f47309ce98ff8cfd2c07990c93171807.bin
+    projectPath: Library\ShaderCache\f\f47309ce98ff8cfd2c07990c93171807.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f8f96b5fe47e79a50785bec52df89131.bin
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\ShaderCache\f\f8f96b5fe47e79a50785bec52df89131.bin
+    projectPath: Library\ShaderCache\f\f8f96b5fe47e79a50785bec52df89131.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\Hierarchy\6f60a8-mainStage.json
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\StateCache\Hierarchy\6f60a8-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\6f60a8-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\e79dd6-mainStage.json
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Library\StateCache\SceneView\e79dd6-mainStage.json
+    projectPath: Library\StateCache\SceneView\e79dd6-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Oculus.VR.csproj
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Oculus.VR.csproj
+    projectPath: Oculus.VR.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Oculus.VR.Editor.csproj
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Oculus.VR.Editor.csproj
+    projectPath: Oculus.VR.Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Oculus.VR.Scripts.Editor.csproj
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Oculus.VR.Scripts.Editor.csproj
+    projectPath: Oculus.VR.Scripts.Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\gscul\Documents\GitHub\Projects\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
